@@ -126,3 +126,4 @@ Not all the programs would execute because certain scripts need sudo permissions
 ## PRECAUTION
 Whenever you want to connect the Project circuit Please Poweroff the Raspberry Pi using the following command and wait till only the red LED glows constantly
 sudo poweroff
+#### For further details , Open the Manual.doc provided
